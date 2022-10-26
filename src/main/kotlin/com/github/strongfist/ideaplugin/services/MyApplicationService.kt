@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.strongfist.ideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.strongfist.ideaplugin.MyBundle
 
 class MyApplicationService {
 
